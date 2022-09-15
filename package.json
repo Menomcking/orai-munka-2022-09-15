@@ -15,5 +15,8 @@
     "url": "https://github.com/Menomcking/orai-munka-2022-09-15/issues"
   },
   "homepage": "https://github.com/Menomcking/orai-munka-2022-09-15#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
